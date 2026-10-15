@@ -1,6 +1,6 @@
 # Silent Monitor — Proof of Concept Report
 
-Oct 15, 2026 · Prepared by @Kali
+Oct 15, 2026 · Prepared by @Shoaib-Khan
 
 ## Executive Summary
 
